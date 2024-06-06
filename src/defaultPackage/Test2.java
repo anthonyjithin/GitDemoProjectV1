@@ -5,7 +5,7 @@ public class Test2 {
 	
 	public static void main(String[] args) {
 	String hungry = "No" ;
-	int i;
+	int i=0;
 	
 	
 	if(hungry == "yes") {
