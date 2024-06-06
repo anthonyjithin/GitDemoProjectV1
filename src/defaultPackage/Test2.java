@@ -8,7 +8,7 @@ public class Test2 {
 	int i=0;
 	int y=9;
 	
-	if(hungry == "yes") {
+	if(hungry == "yes" && hungry == "No") {
 		System.out.println("eat");
 	}
 	else {
